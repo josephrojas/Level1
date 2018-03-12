@@ -1,0 +1,27 @@
+body { background: #F28989;  }
+img { width: 100px; }
+h1 {text-align: center;}
+div {
+	border-radius: 20px;
+	text-align: center;
+	padding: 20px;
+	background: white;
+     border: 1px solid black;
+	 margin: 15px;
+}
+.image{
+	position:absolute ;
+	top:;
+	bottom: ; 
+	right:;
+	left: 300px;
+ }
+.image_1{
+	position:absolute; 
+	left: 600px;
+ }
+
+.image_2{
+	position:absolute;
+	left: 900px;
+ }
